@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "laboratorio/laboratorio1/ejercicio9",
+        "laboratorio/laboratorio1/ejercicio5",
+        "laboratorio/laboratorio1/ejercicio2",
+        "laboratorio/laboratorio1/ejercicio8"
+    ],
+    "java.format.settings.url": ".vscode/java-formatter.xml"
+}
