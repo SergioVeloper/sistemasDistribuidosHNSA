@@ -1,13 +1,11 @@
-//package laboratorio.laboratorio1.ejercicio2;
+package laboratorio1.ejercicio2;
 
 import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         Empresa empresa = new Empresa();
         Scanner scanner = new Scanner(System.in);
         int opcion;
-
         do {
             System.out.println("Menú de Gestión de Empleados:");
             System.out.println("1. Agregar Empleado Fijo");

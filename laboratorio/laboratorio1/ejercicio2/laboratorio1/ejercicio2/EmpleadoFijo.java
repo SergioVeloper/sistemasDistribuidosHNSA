@@ -1,3 +1,4 @@
+package laboratorio1.ejercicio2;
 public class EmpleadoFijo extends Empleado {
     public EmpleadoFijo(String nombre, double salario, String departamento) {
         super(nombre, salario, departamento);
