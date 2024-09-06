@@ -24,7 +24,6 @@ public class votacionChat extends ReceiverAdapter {
     public votacionChat(String nombre) {
         this.nombre = nombre;
         
-        // Initialize the votes
         totalVotos.put("Juan", 0);
         totalVotos.put("Pedro", 0);
         totalVotos.put("Maria", 0);
